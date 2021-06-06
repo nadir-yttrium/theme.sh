@@ -1491,25 +1491,25 @@ background: #252b35
 cursor: #d9002f
 
 dracula
-0: #000000
+0: #21222c
 1: #ff5555
 2: #50fa7b
-3: #ffe46c
+3: #f1fa8c
 4: #bd93f9
 5: #ff79c6
 6: #8be9fd
-7: #bfbfbf
-8: #4d4d4d
-9: #ff6e67
-10: #5af78e
-11: #f4f99d
-12: #caa9fa
-13: #ff92d0
-14: #9aedfe
-15: #e6e6e6
+7: #f8f8f2
+8: #6272a4
+9: #ff6e6e
+10: #69ff94
+11: #ffffa5
+12: #d6acff
+13: #ff92df
+14: #a4ffff
+15: #ffffff
 foreground: #f8f8f2
-background: #373949
-cursor: #94a3a5
+background: #282a36
+cursor: #f8f8f2
 
 dumbledore
 0: #2b283d
